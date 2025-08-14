@@ -1,4 +1,5 @@
 📚 School Management System – SQL Views Practice
+
 📌 Objective
 
 This project demonstrates the creation and usage of SQL Views to combine data from multiple related tables in the School Management System. The implemented view displays student details along with their class and teacher information.
